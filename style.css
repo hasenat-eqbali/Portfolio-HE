@@ -97,6 +97,9 @@ header {
   top: 49%;
   bottom: -1.63%;
 }
+ul li{
+  text-decoration: none;
+}
 
 .social-media {
   display: flex;
