@@ -2,10 +2,9 @@
 
 <div align="center">
 
-  <img src="images/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
+  
 
-  <h3><b>Portfolio</b></h3>
+  <h1><b>Hasenat Eqbali's Portfolio</b></h1>
 
 </div>
 
@@ -22,14 +21,17 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Portfolio <a name="about-project"></a>
-**Portfolio** Here you can find all information about me and my skills.
+<p> Experienced Lead with a demonstrated history of working in the Computer Software industry. Skilled in Management, Motivational Speaking, Leadership, Community Development, and Web Development.</p>  
 
 ## 🛠 Built With <a name="built-with">HTML & CSS</a>
+<p>to build this project,I have used from HTML version 5 for the structure and CSS for designig.  </p>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo">
-<div>
+
+<h3> Here is a screenshot of my protfolio, open and enjoy reading. </h3>
+<div style="margin:auto">
 <img src="images/index.png" alt="logo" width="140"  height="auto" />
   <br/>
 </div>
